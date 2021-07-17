@@ -1,3 +1,4 @@
 baseURL = "http://www.experiment38a.com"
 languageCode = "en-us"
 title = "Experiment 38a"
+theme = "ananke"
