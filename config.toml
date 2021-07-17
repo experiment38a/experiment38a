@@ -1,7 +1,7 @@
 baseURL = "https://www.experiment38a.com"
 languageCode = "en-us"
 title = "Experiment 38a"
-theme = "ananke"
+theme = "hello-friend"
 
 relativeURLs = true
 canonifyURLs = true
